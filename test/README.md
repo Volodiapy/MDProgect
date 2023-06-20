@@ -1,0 +1,2 @@
+# MagicDuel
+ Game for android
